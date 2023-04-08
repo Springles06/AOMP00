@@ -1,0 +1,30 @@
+ 1        21   James Lin
+ 2      1180   Yannick Yao
+ 3    160002   Yannick Yao
+ 4        18   Yannick Yao
+ 5         5   James Lin
+ 6        10   Tristan Shin
+ 7       500   Yannick Yao
+ 8      1954   Yannick Yao
+ 9        18   James Lin
+10       231   James Lin
+11       730   Evan Chen
+12        89   Tristan Shin
+13     10800   Yang Liu
+14       413   James Lin
+15    333333   Yannick Yao
+16    789953   Yannick Yao
+17   4066273   James Lin
+18      2823   Yannick Yao and James Lin
+19    509545   Vincent Huang
+20      1953   James Lin
+21    234040   Yang Liu
+22     10782   Michael Ren
+23   2035153   Vincent Huang
+24      1555   Michael Ren
+25    932821   Yang Liu
+26     72163   Vincent Huang
+27       569   Yang Liu
+28     43040   Vincent Huang
+29    475756   James Lin
+30      3977   Michael Ren

@@ -1,0 +1,30 @@
+ 1         9   Evan Chen
+ 2         2   Evan Chen
+ 3        12   Evan Chen
+ 4    328053   Robin Park
+ 5       100   Evan Chen
+ 6     21600   Evan Chen
+ 7         8   Evan Chen
+ 8       252   Evan Chen
+ 9        72   Robin Park
+10       326   Yang Liu
+11       120   Evan Chen
+12         1   Yang Liu
+13        20   Evan Chen
+14     10065   Evan Chen
+15      4553   Robin Park
+16       125   Yang Liu
+17        65   Ray Li
+18      9901   Yang Liu
+19     15405   Yang Liu
+20       460   Yang Liu
+21       101   Robin Park
+22    240430   Evan Chen
+23        19   Evan Chen
+24        55   Michael Kural
+25      4131   Evan Chen
+26         5   Yang Liu
+27      2440   Michael Kural
+28    708588   Michael Kural
+29        99   Evan Chen
+30      2004   Robin Park

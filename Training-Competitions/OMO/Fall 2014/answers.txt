@@ -1,0 +1,30 @@
+ 1         1   Ray Li
+ 2      2013   Evan Chen
+ 3       157   Yang Liu
+ 4       108   Yang Liu
+ 5         9   Michael Kural
+ 6         0   Evan Chen
+ 7        24   Robin Park
+ 8      1061   Evan Chen
+ 9       501   Evan Chen
+10       457   Evan Chen
+11        84   Ray Li
+12        55   Evan Chen
+13      1020   Evan Chen
+14     12321   Evan Chen
+15   1048576   Yang Liu
+16     22200   Robin Park
+17       200   Ray Li
+18         5   Evan Chen
+19        55   Ray Li
+20      2188   Yang Liu
+21       622   Michael Kural
+22       334   Yang Liu
+23       420   Sammy Luo
+24    348595   Robin Park
+25   4054179   Robin Park
+26       325   Michael Kural
+27     16384   Yang Liu and Ryan Alweiss
+28         2   Evan Chen
+29       467   Evan Chen
+30     32761   Yang Liu

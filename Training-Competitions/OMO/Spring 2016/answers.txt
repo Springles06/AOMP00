@@ -1,0 +1,30 @@
+ 1         0   Yang Liu
+ 2        12   James Lin
+ 3       224   James Lin
+ 4        54   Yannick Yao
+ 5       640   James Lin
+ 6         7   James Lin
+ 7        28   Michael Kural
+ 8      2134   James Lin
+ 9        24   James Lin
+10     90720   Yannick Yao
+11       403   Tristan Shin
+12      2016   Evan Chen
+13        13   James Lin
+14       460   Tristan Shin
+15        80   Yannick Yao
+16      1404   James Lin
+17      2068   Yang Liu
+18  30759351   Yang Liu
+19     10010   Tristan Shin
+20      1374   Yannick Yao
+21      2504   James Lin
+22       940   James Lin
+23  17274095   Vincent Huang
+24        63   Yang Liu
+25   1296144   Ashwin Sah
+26        81   Yang Liu
+27      3248   Michael Ren
+28       189   Yang Liu
+29     20000   James Lin
+30     11271   Vincent Huang and James Lin

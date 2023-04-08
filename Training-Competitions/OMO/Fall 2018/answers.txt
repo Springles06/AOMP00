@@ -1,0 +1,30 @@
+ 1         4   Michael Ren and Tristan Shin
+ 2        16   Brandon Wang
+ 3         1   Michael Ren
+ 4        11   James Lin
+ 5     16295   Luke Robitaille
+ 6   2037171   Yannick Yao
+ 7       455   Yannick Yao
+ 8      6049   Brandon Wang
+ 9         5   Brandon Wang
+10       379   Luke Robitaille
+11     10087   Ashwin Sah
+12      8302   Yannick Yao
+13         4   Tristan Shin
+14   1558057   Yannick Yao
+15         6   Yannick Yao
+16      9408   James Lin
+17     14227   Michael Ren
+18   1017072   Yannick Yao
+19    932774   Tristan Shin
+20      4606   Tristan Shin and Vincent Huang
+21      1923   Tristan Shin
+22    270382   Luke Robitaille
+23        52   Ashwin Sah
+24      5152   Ankan Bhattacharya
+25        10   Brandon Wang and Vincent Huang
+26   4114810   Brandon Wang
+27    282241   Vincent Huang
+28     10096   Vincent Huang
+29      1382   Michael Ren and Ashwin Sah
+30      7132   Vincent Huang

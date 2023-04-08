@@ -1,0 +1,30 @@
+ 1        17   Evan Chen
+ 2        60   Evan Chen
+ 3        18   Yannick Yao
+ 4         6   Evan Chen
+ 5       656   Evan Chen
+ 6      4000   Yannick Yao
+ 7   1000000   Yannick Yao
+ 8       683   Michael Kural
+ 9        16   Evan Chen
+10      8008   Yannick Yao
+11      1706   Yannick Yao
+12   2015000   Evan Chen
+13       308   Yang Liu
+14     19320   Yang Liu
+15       321   James Lin
+16       223   Yang Liu
+17       588   Michael Ma
+18   1318350   Ashwin Sah
+19       872   Ashwin Sah
+20       192   Ashwin Sah
+21       605   Ashwin Sah
+22       535   Yang Liu
+23    512256   Evan Chen and Ashwin Sah
+24      5702   Evan Chen
+25   2040200   Victor Wang
+26       231   Michael Kural
+27       792   Evan Chen
+28   2030612   Yang Liu
+29       300   Ashwin Sah
+30     11007   Michael Kural

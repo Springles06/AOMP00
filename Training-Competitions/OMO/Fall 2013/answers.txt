@@ -1,0 +1,30 @@
+ 1   1428570   Ray Li
+ 2      1625   Evan Chen
+ 3        16   Evan Chen
+ 4       365   Evan Chen
+ 5       111   Evan Chen
+ 6         6   Michael Kural
+ 7       150   Evan Chen
+ 8        13   Evan Chen
+ 9         1   Evan Chen
+10        99   David Stoner
+11        52   Evan Chen
+12       693   Evan Chen
+13        20   Evan Chen
+14        17   Michael Kural
+15   1015057   David Stoner
+16     13122   Ray Li
+17       100   Evan Chen
+18   5999992   David Stoner
+19       164   Michael Kural
+20       135   Evan Chen
+21        13   Ray Li
+22      4360   Evan Chen
+23        19   David Stoner
+24       671   Evan Chen
+25       118   Evan Chen
+26       274   Michael Kural
+27      1336   Evan Chen
+28       431   Evan Chen
+29       213   Ray Li
+30       847   Evan Chen

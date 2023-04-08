@@ -1,0 +1,30 @@
+ 1        25   Luke Robitaille
+ 2        84   Ankan Bhattacharya
+ 3       670   Luke Robitaille
+ 4       916   Yannick Yao
+ 5        16   Ankit Bisain
+ 6      3907   Yannick Yao
+ 7        38   Gopal Goel
+ 8  24678050   Vincent Huang
+ 9     14800   Sean Li
+10       103   Ashwin Sah
+11      3902   Ankit Bisain
+12    535501   Sean Li
+13         8   Sean Li
+14       638   Ankit Bisain
+15      1632   James Lin
+16    201925   Tristan Shin
+17      9998   Vincent Huang
+18      8068   Yang Liu and Edward Wan
+19      1727   Tristan Shin
+20      4900   Luke Robitaille
+21        85   Ankit Bisain
+22   1363001   Ankit Bisain
+23     62208   Luke Robitaille
+24     29941   Luke Robitaille
+25       301   Ankan Bhattacharya
+26        18   Brandon Wang
+27      1359   Luke Robitaille and Yannick Yao
+28    103020   Vincent Huang
+29    264143   Ankit Bisain, Luke Robitaille, and Brandon Wang
+30       197   Gopal Goel

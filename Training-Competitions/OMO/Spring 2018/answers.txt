@@ -1,0 +1,30 @@
+ 1         2   James Lin
+ 2        13   James Lin
+ 3       715   James Lin
+ 4      2018   Yannick Yao
+ 5      2019   Brandon Wang
+ 6      1735   Luke Robitaille
+ 7        16   James Lin
+ 8        13   Luke Robitaille
+ 9        58   Luke Robitaille
+10       101   James Lin
+11       384   Yannick Yao
+12      1318   Yannick Yao
+13        10   James Lin
+14       305   James Lin
+15      1512   James Lin
+16       457   James Lin
+17      2014   Tristan Shin
+18       301   Michael Ren
+19         6   Michael Ren
+20    240124   Edward Wan
+21        22   Yannick Yao
+22      8856   Yang Liu
+23       773   Vincent Huang
+24    622080   James Lin
+25      1289   James Lin
+26      1570   Michael Ren
+27      2018   Vincent Huang and Brandon Wang
+28   6764833   Ankan Bhattacharya and Michael Ren
+29     30416   Vincent Huang
+30  98547790   Ashwin Sah

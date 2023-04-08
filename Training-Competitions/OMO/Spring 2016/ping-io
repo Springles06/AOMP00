@@ -1,0 +1,12 @@
+PING internetolympiad.org (73.92.119.202) 56(84) bytes of data.
+64 bytes from c-73-92-119-202.hsd1.ca.comcast.net (73.92.119.202): icmp_seq=1 ttl=51 time=87.9 ms
+64 bytes from c-73-92-119-202.hsd1.ca.comcast.net (73.92.119.202): icmp_seq=2 ttl=51 time=87.4 ms
+64 bytes from c-73-92-119-202.hsd1.ca.comcast.net (73.92.119.202): icmp_seq=3 ttl=51 time=89.1 ms
+64 bytes from c-73-92-119-202.hsd1.ca.comcast.net (73.92.119.202): icmp_seq=4 ttl=51 time=88.7 ms
+64 bytes from c-73-92-119-202.hsd1.ca.comcast.net (73.92.119.202): icmp_seq=5 ttl=51 time=87.6 ms
+64 bytes from c-73-92-119-202.hsd1.ca.comcast.net (73.92.119.202): icmp_seq=6 ttl=51 time=88.9 ms
+64 bytes from c-73-92-119-202.hsd1.ca.comcast.net (73.92.119.202): icmp_seq=7 ttl=51 time=88.7 ms
+
+--- internetolympiad.org ping statistics ---
+7 packets transmitted, 7 received, 0% packet loss, time 6008ms
+rtt min/avg/max/mdev = 87.480/88.374/89.153/0.639 ms

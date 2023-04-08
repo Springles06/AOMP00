@@ -1,0 +1,30 @@
+ 1      2020   Ankan Bhattacharya
+ 2   2039189   Vincent Huang
+ 3         4   Yannick Yao
+ 4      2019   Tristan Shin
+ 5       123   Brandon Wang
+ 6         5   Luke Robitaille
+ 7       177   Brandon Wang
+ 8        72   Yannick Yao
+ 9        32   Ankan Bhattacharya
+10    962963   Yannick Yao
+11      4489   James Lin
+12      1257   Yannick Yao
+13     34999   Ankan Bhattacharya
+14       152   James Lin
+15       284   Michael Ren and Luke Robitaille
+16     92007   Yannick Yao
+17      1728   Ankan Bhattacharya
+18      1871   Edward Wan
+19   1274114   Edward Wan
+20    230479   Tristan Shin
+21       108   Tristan Shin
+22    202576   Ankan Bhattacharya
+23      2105   Ankan Bhattacharya
+24         8   Michael Ren and James Lin
+25       625   Brandon Wang and Vincent Huang
+26 572857143   Ankan Bhattacharya
+27       273   Vincent Huang
+28       413   Vincent Huang
+29      4318   Vincent Huang
+30       802   Vincent Huang

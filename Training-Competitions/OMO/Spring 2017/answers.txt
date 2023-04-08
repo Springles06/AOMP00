@@ -1,0 +1,30 @@
+ 1         1   Yannick Yao
+ 2        30   Michael Ren
+ 3        56   Yannick Yao
+ 4      8080   Yannick Yao
+ 5       200   Yannick Yao
+ 6      7500   Michael Ren
+ 7        44   Yannick Yao
+ 8     11112   Yannick Yao
+ 9         2   Evan Chen
+10      5461   Yannick Yao
+11       503   James Lin
+12       264   Yannick Yao
+13     28860   Yannick Yao
+14        59   Vincent Huang
+15        72   Vincent Huang
+16       112   Michael Ren
+17    240607   Vincent Huang
+18     65819   Yang Liu
+19      1840   Ashwin Sah
+20      8027   Vincent Huang
+21       1191   Zack Chroman
+22      5828   Yannick Yao
+23      5425   Michael Ren
+24       840   Tristan Shin
+25      5376   Yannick Yao
+26     31418   Vincent Huang
+27       793   Zack Chroman
+28   3862291   James Lin
+29   1376029   Michael Ren
+30     12106   Ashwin Sah
